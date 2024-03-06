@@ -7,6 +7,11 @@ VSCode 必裝外掛
 ---
 - Live Preview
 
+0306
+---
+- Shift+Alt+Down copy line
+- Shift+Alt+Down delete line
+- Alt+Down move line
 
 Github 預覽網頁方法
 > 1. 先複製你的 Github 網頁的網址
@@ -25,3 +30,4 @@ Youtube 自學教材
   - 區塊元素 vs. 行內元素 (3:53)
   - a 標籤 ```<a href=''>```
   -  blockquote 標籤 (5:40)
+
