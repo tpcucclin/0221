@@ -35,6 +35,6 @@ Youtube 自學教材
 Typing Game
 ---
 - [1.趣味中英打](https://www.ebook123.com.tw/static/ebook123_svr/etype_svr2/type.html?Course=0&Type=0&Practice=0)
-- [英打王](https://youtouch100.com/english-type-preview.php)
-- [練打字 背單字 高中英文篇](https://worldofkeyboards.com/vobsenior) 挑戰英打王, 6秒 A~Z 計時賽
+- [英打王](https://youtouch100.com/english-type-preview.php)  挑戰英打王, 6秒 A~Z 計時賽
+- [練打字 背單字 高中英文篇](https://worldofkeyboards.com/vobsenior)
 - [Typing Practice](https://www.keybr.com/)
